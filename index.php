@@ -331,7 +331,6 @@ namespace Atividade5Aula3 {
     }
 
     $registro = new Registro();
-
     $registro->registrarLog("Erro de exemplo");
     $registro->registrarLogInfo("Registro de informação de exemplo");
 }
